@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <!-- Gleam -->  
+  <a href="https://gleam.run/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gleam/gleam-original.svg" alt="Gleam" width="40" height="40"/>
+  </a>
 
-<!--
-**med0rei/med0rei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- TS -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TS" width="40" height="40"/>
+  </a>
+  
+  <!-- macOS -->
+  <a href="https://www.apple.com/os/macos/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/apple/ffffff" alt="macOS" width="40" height="40"/>
+  </a>
+  
+  <!-- OpenBSD -->
+  <a href="https://www.openbsd.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/openbsd/ffffff" alt="OpenBSD" width="40" height="40"/>
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Android -->
+  <a href="https://www.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  </a>
+</p>
