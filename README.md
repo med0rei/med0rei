@@ -8,12 +8,12 @@
 
   <!-- TS -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TS" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;in&nbsp;
   <!-- Neovim -->
   <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=neovim" alt="TS" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;on&nbsp;
   <!-- macOS -->
