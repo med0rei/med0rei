@@ -1,11 +1,13 @@
 <h1 align="center">
   Writing&nbsp;
-
-  <!-- Gleam -->  
+  <!-- Gleam -->
   <a href="https://gleam.run/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gleam/gleam-original.svg" alt="Gleam" width="40" height="40"/>
   </a>
-
+  <!-- F# -->
+  <a href="https://fsharp.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg" alt="F#" width="40" height="40"/>
+  </a>
   <!-- TS -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
@@ -20,7 +22,6 @@
   <a href="https://www.apple.com/os/macos/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/apple/ffffff" alt="macOS" width="40" height="40"/>
   </a>
-  
   <!-- OpenBSD -->
   <a href="https://www.openbsd.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/openbsd/ffffff" alt="OpenBSD" width="40" height="40"/>
